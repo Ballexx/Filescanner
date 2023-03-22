@@ -1,5 +1,5 @@
 # Filescanner
-* A Rust tool that allows you to fins abnormally large files
+* A Rust tool that allows you to find abnormally large files
 
 # How to use
 * Enter directory to scan
