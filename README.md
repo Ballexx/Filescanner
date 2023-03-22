@@ -2,6 +2,7 @@
 * A Rust tool that allows you to find abnormally large files
 
 # How to use
+* In main.rs, do the following in the "run" function
 * Enter directory to scan
 * Enter either true or false, where true shows ALL files being scanned and false the opposite 
 * Note that entering true will drastically decrease peformance
