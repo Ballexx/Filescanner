@@ -1,6 +1,6 @@
 mod utils;
-use utils::{run};
+use utils::run;
 
 fn main(){
-    run();
+    run("C://", false, 1000000);
 }
